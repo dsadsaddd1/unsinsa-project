@@ -24,12 +24,16 @@ MSA 아키텍처를 토대로 혁신적인 아이디어와 최신 기술을 융�
 ● 23.05 - 23.06
 
 ### :low_brightness: 사용 기술 스택
-● Java / Spring Boot / Maven <br>
-● MySql
-● React
-● Docker
-● AWS
-● Github Actions
+● Java 11 <br>
+● Spring Boot 2.4.2 <br>
+● Maven <br>
+● Jpa <br>
+● MySql 5.7.41 <br>
+● React <br>
+● Docker <br>
+● AWS <br>
+● Github Actions <br>
+
 
 
 ### 🔗 구조도
