@@ -10,7 +10,7 @@ MUSINSA 쇼핑몰을 참고하여 만든 쇼핑몰 사이트입니다.
 ### :low_brightness: 사용 기술 스택
 
 
-### 구조도
+### :page_with_curl: 구조도
 
 
 ### ERD
